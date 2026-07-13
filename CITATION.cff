@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: 'If you use VG-iT or this reproducibility package, please cite it as below. File-level rights are specified in LICENSE_SCOPE.md.'
+type: software
+title: 'VG-iT: Hierarchical Variable-Group Attention for Multivariate Time Series Forecasting'
+authors:
+  - family-names: Park
+    given-names: Himchan
+    orcid: 'https://orcid.org/0009-0007-5883-5886'
+    affiliation: 'Department of Intelligent Data and Optimization, Yonsei University'
+    email: 'himchan_park@yonsei.ac.kr'
+  - family-names: Choi
+    given-names: Jongkwan
+    orcid: 'https://orcid.org/0000-0002-9727-9620'
+    affiliation: 'Department of Industrial Engineering, Yonsei University'
+    email: 'jk-choi@yonsei.ac.kr'
+  - family-names: Kim
+    given-names: Chang Ouk
+    orcid: 'https://orcid.org/0000-0002-6936-5409'
+    affiliation: 'Department of Industrial Engineering, Yonsei University'
+    email: 'kimco@yonsei.ac.kr'
+abstract: 'VG-iT is a hierarchical variable-group attention architecture for high-variate multivariate time series forecasting.'
+keywords:
+  - multivariate time series forecasting
+  - variable-group attention
+  - iTransformer
+  - efficient attention
+  - reproducibility package
+# This is a mixed-rights archive; no single CFF license value applies to every file.
+version: '1.0.0'
+repository-code: 'https://github.com/PolnareffPark/VG-iT'
+url: 'https://github.com/PolnareffPark/VG-iT'
+preferred-citation:
+  type: unpublished
+  title: 'VG-iT: Hierarchical Variable-Group Attention for Multivariate Time Series Forecasting'
+  authors:
+    - family-names: Park
+      given-names: Himchan
+      orcid: 'https://orcid.org/0009-0007-5883-5886'
+    - family-names: Choi
+      given-names: Jongkwan
+      orcid: 'https://orcid.org/0000-0002-9727-9620'
+    - family-names: Kim
+      given-names: Chang Ouk
+      orcid: 'https://orcid.org/0000-0002-6936-5409'
+  year: 2026
+  notes: 'Manuscript prepared for submission to Neurocomputing.'

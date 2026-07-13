@@ -1,0 +1,16 @@
+dataset,N,num_groups,M,e_layers,use_shifted_grouping,use_film_broadcast,pooling,FLOPs_G
+solar_AL,137,4,35,2,1,1,mean,0.4843
+solar_AL,137,8,18,2,1,1,mean,0.4756
+solar_AL,137,16,9,2,1,1,mean,0.4711
+solar_AL,137,32,5,2,1,1,mean,0.4743
+solar_AL,137,64,3,2,1,1,mean,0.4901
+traffic,862,8,109,4,1,1,mean,6.5572
+traffic,862,16,55,4,1,1,mean,6.1788
+traffic,862,32,28,4,1,1,mean,5.9983
+traffic,862,64,14,4,1,1,mean,5.9207
+traffic,862,128,7,4,1,1,mean,5.9700
+bdg2,2817,16,177,3,1,1,mean,17.2670
+bdg2,2817,32,89,3,1,1,mean,15.7525
+bdg2,2817,64,45,3,1,1,mean,15.0166
+bdg2,2817,128,23,3,1,1,mean,14.7244
+bdg2,2817,256,12,3,1,1,mean,14.8620
