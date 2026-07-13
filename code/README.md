@@ -110,7 +110,7 @@ loader with `--data Solar`, `--root_path ./dataset/Solar/`, and `--data_path sol
 |---|---:|---|
 | Electricity (ECL) | 321 | [UCI ElectricityLoadDiagrams20112014](https://archive.ics.uci.edu/dataset/321/electricityloaddiagrams20112014) · [laiguokun mirror](https://github.com/laiguokun/multivariate-time-series-data) |
 | Traffic | 862 | Caltrans PeMS · [laiguokun mirror](https://github.com/laiguokun/multivariate-time-series-data/tree/master/traffic) |
-| Solar-Energy (solar_AL) | 137 | [NREL](https://www.nrel.gov/grid/solar-power-data.html) · [laiguokun mirror](https://github.com/laiguokun/multivariate-time-series-data) |
+| Solar-Energy (solar_AL) | 137 | [NLR](https://www.nlr.gov/grid/solar-power-data) · [laiguokun mirror](https://github.com/laiguokun/multivariate-time-series-data) |
 
 The community-standard preprocessed versions (used by Informer / Autoformer / iTransformer)
 are recommended; they follow the data-distribution protocol of Lai et al. (2018).
