@@ -42,5 +42,7 @@ The Zenodo v1.0.0 record declares MIT for the covered original software and
 identified upstream MIT components, Apache-2.0 for identified upstream
 Apache-2.0 components, and the custom rights statement in
 `LICENSES/NONSOFTWARE-RIGHTS.txt` for author-generated non-software files.
-These are file-scoped rights entries, not alternative licenses for the archive
-as a whole.
+Zenodo lists these as record-level mixed-license declarations; it does not map
+them directly to individual archive paths. This document,
+`THIRD_PARTY_NOTICES.md`, and `LICENSES/` define the file-level scope. No
+single license applies to the archive as a whole.

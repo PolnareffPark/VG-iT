@@ -27,20 +27,7 @@ keywords:
   - reproducibility package
 # This is a mixed-rights archive; no single CFF license value applies to every file.
 version: '1.0.0'
+doi: '10.5281/zenodo.21367491'
+date-released: '2026-07-21'
 repository-code: 'https://github.com/PolnareffPark/VG-iT'
 url: 'https://github.com/PolnareffPark/VG-iT'
-preferred-citation:
-  type: unpublished
-  title: 'VG-iT: Hierarchical Variable-Group Attention for Multivariate Time Series Forecasting'
-  authors:
-    - family-names: Park
-      given-names: Himchan
-      orcid: 'https://orcid.org/0009-0007-5883-5886'
-    - family-names: Choi
-      given-names: Jongkwan
-      orcid: 'https://orcid.org/0000-0002-9727-9620'
-    - family-names: Kim
-      given-names: Chang Ouk
-      orcid: 'https://orcid.org/0000-0002-6936-5409'
-  year: 2026
-  notes: 'Manuscript prepared for submission to Neurocomputing.'

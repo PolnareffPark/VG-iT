@@ -95,9 +95,12 @@ datasets rather than from archived local checkpoints.
 
 Public repository: <https://github.com/PolnareffPark/VG-iT>
 
-This release is version `1.0.0`. The version-specific Zenodo DOI must be reserved and
-inserted into `CITATION.cff` and this section before the immutable Zenodo record is
-published. An archive without that DOI is not the final v1.0.0 Zenodo file.
+This release is version `1.0.0`, published on `2026-07-21`.
+
+Version-specific Zenodo DOI: <https://doi.org/10.5281/zenodo.21367491>
+(reserved for this release; the link resolves after the Zenodo record is published).
+
+Tagged source: <https://github.com/PolnareffPark/VG-iT/tree/v1.0.0>
 
 ## License and Third-Party Notices
 

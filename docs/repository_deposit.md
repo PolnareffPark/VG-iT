@@ -22,4 +22,6 @@ Full training checkpoints are not included because the complete training checkpo
 The MIT copyright holder is intentionally listed as Himchan Park in the repository license files. Manuscript authorship and citation metadata remain listed separately in CITATION.cff.
 
 The Zenodo record must declare MIT, Apache-2.0, and the custom non-software rights
-statement as file-scoped entries. No single license applies to the archive as a whole.
+statement as record-level mixed-license entries. Zenodo does not map these declarations
+to archive paths; `LICENSE_SCOPE.md`, `THIRD_PARTY_NOTICES.md`, and `LICENSES/`
+define the file-level scope. No single license applies to the archive as a whole.
