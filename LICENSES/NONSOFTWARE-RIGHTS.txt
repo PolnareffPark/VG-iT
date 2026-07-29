@@ -1,0 +1,18 @@
+VG-iT v1.0.0 NON-SOFTWARE MATERIALS RIGHTS STATEMENT
+
+Custom rights title:
+Copyright retained - no additional license for author-generated non-software materials
+
+This rights statement applies only to author-generated non-software files in
+this record, including curated results (CSV, JSON, and Markdown), rendered and
+source figures or artwork (PNG and SVG), and repository prose. Copyright is
+retained by the applicable author(s) and rights holder(s). All rights are
+reserved.
+
+Public access to these files does not grant permission to reproduce, modify,
+redistribute, or create derivative works beyond rights provided by applicable
+law or expressly stated in an individual file. This statement does not apply
+to software or scripts, which are governed by the MIT License or the applicable
+upstream license. Raw third-party datasets are not included.
+
+See LICENSE_SCOPE.md and THIRD_PARTY_NOTICES.md in this archived release.

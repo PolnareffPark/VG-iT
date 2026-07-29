@@ -1,0 +1,28 @@
+# VG-iT Requirements (torch/torchvision/torchaudio excluded — install separately for your CUDA version)
+# Python 3.11
+
+# === Core Dependencies ===
+numpy==1.26.4
+pandas==2.3.2
+pyarrow==23.0.1
+scipy==1.16.3
+scikit-learn==1.7.2
+
+# === Visualization ===
+matplotlib==3.10.5
+
+# === Model Architecture ===
+einops==0.8.2
+reformer-pytorch==1.4.4
+nystrom-attention==0.0.14
+
+# === Profiling / FLOPs ===
+thop==0.1.1.post2209072238
+
+# === Progress Bar ===
+tqdm==4.67.1
+
+# === Statistical Analysis ===
+scikit-posthocs==0.12.0
+statsmodels==0.14.6
+baycomp==1.0.3
